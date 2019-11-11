@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLDBDemo</string>
+    <string name="add_btn_text">Add</string>
+    <string name="delete_btn_text">Delete</string>
+</resources>

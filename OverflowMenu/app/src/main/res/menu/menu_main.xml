@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.overflowmenu.MainActivity">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_red"
+            android:title="@string/red_text"
+            android:orderInCategory="1"/>
+        <item
+            android:id="@+id/menu_green"
+            android:title="@string/green_text"
+            android:orderInCategory="2"/>
+        <item
+            android:id="@+id/menu_yellow"
+            android:title="@string/yellow_text"
+            android:orderInCategory="3"/>
+    </group>
+</menu>
