@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Q5</string>
+    <string-array name="teams">
+        <item>Real Madrid</item>
+        <item>Barcelona</item>
+        <item>Bayern Munich</item>
+        <item>Manchester City</item>
+    </string-array>
+</resources>
